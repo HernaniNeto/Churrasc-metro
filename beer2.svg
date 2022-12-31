@@ -1,0 +1,62 @@
+<?xml version="1.0"?>
+<svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:svg="http://www.w3.org/2000/svg" id="svg2" viewBox="0 0 87.95 318.76" version="1.1">
+  <defs id="defs4">
+    <linearGradient id="linearGradient4290" y2="256.27" gradientUnits="userSpaceOnUse" x2="217.05" gradientTransform="translate(330.88 233.58)" y1="251.54" x1="105.45">
+      <stop id="stop4286" stop-color="#008000" offset="0"/>
+      <stop id="stop4288" offset="1"/>
+    </linearGradient>
+    <linearGradient id="linearGradient4326" y2="82.281" gradientUnits="userSpaceOnUse" x2="154.28" y1="121.75" x1="170.93">
+      <stop id="stop4322" offset="0"/>
+      <stop id="stop4324" stop-color="#c8c600" stop-opacity=".83529" offset="1"/>
+    </linearGradient>
+  </defs>
+  <g id="layer1" transform="translate(-436.34 -267.22)">
+    <g id="g4390" stroke="#000">
+      <path id="path4282" d="m463.97 282.74l4.2759-1.6245 5.6641 2.763 5.2716-2.4118 5.2734 2.8687 5.7629-2.7876 5.9052 1.3944 4.1206-2.7342s-1.4972-8.6593-4.3239-9.7213c-3.2823-1.2332-16.527-1.3151-16.527-1.3151s-14.448-0.70483-16.308 1.5308c-1.8435 2.2164-3.1894 10.122-3.1894 10.122l4.0745 1.9158zm-1.715-0.10257s-2.0185 8.5755-1.4081 11.363c0.37229 1.7003 0.9265 3.2664 0.89538 4.4347-0.69091 25.937-4.9886 75.915-5.5002 77.962-0.51164 2.0466-1.0233 9.7213-3.0699 13.303-2.0466 3.5815-8.8259 11.512-11.256 16.373-2.072 4.144-3.0699 8.698-3.5815 13.303-0.51165 4.6048 0.51164 145.82 0.51164 145.82l2.0466 10.745c3.0699 4.0932 10.745 7.163 13.814 7.163 3.0699 0 31.722 1.0233 38.885 1.0233s17.396-0.51165 22.001-4.0932c4.6048-3.5815 7.6747-7.6747 6.6514-12.28-1.0233-4.6048-1.0233-132-1.0233-135.59 0-3.5815 0.96044-13.478-1.0233-17.908-4.0473-9.0384-17.908-29.164-17.908-33.257 0-4.0932-5.1165-79.305-5.1165-82.375 0-3.0699 1.5349-5.6281 1.5349-8.1863s-1.0233-8.698-1.0233-8.698" stroke-width="3.7" fill="url(#linearGradient4290)"/>
+      <path id="path4306" d="m463.37 282.74l4.2759-1.6245 5.6641 2.763 5.2716-2.4118 5.2734 2.8687 5.7629-2.7876 5.9052 1.3944 4.1206-2.7342s-1.4972-8.6593-4.3239-9.7213c-3.2823-1.2332-16.527-1.3151-16.527-1.3151s-14.448-0.70483-16.308 1.5308c-1.8435 2.2164-3.1894 10.122-3.1894 10.122l4.0745 1.9158z" stroke-width="3.7" fill="#ccc"/>
+      <path id="path4310" d="m195.56 66.431c11.284 19.255 2.2209 42.706-20.244 52.378-22.464 9.6722-49.823 1.9036-61.107-17.352-0.18444-0.31473-0.3639-0.63159-0.53834-0.95048l41.214-16.563z" stroke-width="2.0181" fill="url(#linearGradient4326)" transform="matrix(.51648 -1.2246 1.2246 .51648 257.34 628.09)"/>
+      <path id="path4386" d="m195.56 66.431a45.519 39.016 0 1 1 -81.89 34.079l41.21-16.566z" stroke-width="2.0181" fill="#808000" transform="matrix(.32488 -.77031 .77031 .32488 324.28 575.09)"/>
+    </g>
+  </g>
+  <metadata>
+    <rdf:RDF>
+      <cc:Work>
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+        <cc:license rdf:resource="http://creativecommons.org/licenses/publicdomain/"/>
+        <dc:publisher>
+          <cc:Agent rdf:about="http://openclipart.org/">
+            <dc:title>Openclipart</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:title>Beer Bottle</dc:title>
+        <dc:date>2010-07-17T15:24:31</dc:date>
+        <dc:description>Beer,Drink,cool,drunk,water,bujung,thirsty</dc:description>
+        <dc:source>http://openclipart.org/detail/73597/beer-bottle-by-aungkarns</dc:source>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>aungkarns</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>Beer</rdf:li>
+            <rdf:li>Drink</rdf:li>
+            <rdf:li>bujung</rdf:li>
+            <rdf:li>clip art</rdf:li>
+            <rdf:li>clipart</rdf:li>
+            <rdf:li>cool</rdf:li>
+            <rdf:li>drunk</rdf:li>
+            <rdf:li>thirsty</rdf:li>
+            <rdf:li>water</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+      </cc:Work>
+      <cc:License rdf:about="http://creativecommons.org/licenses/publicdomain/">
+        <cc:permits rdf:resource="http://creativecommons.org/ns#Reproduction"/>
+        <cc:permits rdf:resource="http://creativecommons.org/ns#Distribution"/>
+        <cc:permits rdf:resource="http://creativecommons.org/ns#DerivativeWorks"/>
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+</svg>
